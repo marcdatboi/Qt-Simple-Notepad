@@ -38,5 +38,5 @@
 
 # Setup (Windows)
 1. Make sure to have Qt6's bin folder in your PATH
-2. Clone the repo: https://github.com/marcdatboi/Qt-Simple-Notepad.git
+2. Clone the repo: ```https://github.com/marcdatboi/Qt-Simple-Notepad.git```
 
